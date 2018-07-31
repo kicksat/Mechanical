@@ -4,4 +4,4 @@
 
 This is not the final version!
 
-As of 07.25.2018 these files still need to be validated against the physical model and updated with exact tolerancing.
+As of 07.30.2018 these files are still being revised to make sure they fit within tolerances
